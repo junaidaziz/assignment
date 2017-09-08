@@ -1,2 +1,1 @@
-# reactKit
-To start react project
+# assignment
